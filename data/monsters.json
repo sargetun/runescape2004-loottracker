@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Dragon",
+    "combat_level": 111,
+    "image_path": "assets/images/bluedragon.png",
+    "total_kills": 0,
+    "loot": [
+      {"name":"Dragon Bones","image_path":"assets/images/dragon_bones.png","quantity":1,"drop_rate":"1/1"},
+      {"name":"Coins","image_path":"assets/images/coins.png","quantity":440,"drop_rate":"1/32-1/1"},
+      {"name":"Dragonhide Blue","image_path":"assets/images/dragonhide_blue.png","quantity":1,"drop_rate":"1/1"},
+      {"name":"Random Herb","image_path":"assets/images/randomherb.png","quantity":1,"drop_rate":"1/9"},
+      {"name":"Water Rune","image_path":"assets/images/waterrune.png","quantity":75,"drop_rate":"1/16"},
+      {"name":"Nature Rune","image_path":"assets/images/naturerune.png","quantity":15,"drop_rate":"1/26"},
+      {"name":"Random Jewel","image_path":"assets/images/dragonstone.png","quantity":1,"drop_rate":"1/26"},
+      {"name":"Steel Platelegs","image_path":"assets/images/steel_platelegs.png","quantity":1,"drop_rate":"1/32"},
+      {"name":"Steel Battleaxe","image_path":"assets/images/steel_battleaxe.png","quantity":1,"drop_rate":"1/43"},
+      {"name":"Mithril Axe","image_path":"assets/images/mithril_axe.png","quantity":1,"drop_rate":"1/43"},
+      {"name":"Law Rune","image_path":"assets/images/lawrune.png","quantity":3,"drop_rate":"1/43"},
+      {"name":"Bass","image_path":"assets/images/bass.png","quantity":1,"drop_rate":"1/43"},
+      {"name":"Adamantite Ore","image_path":"assets/images/adamantite_ore.png","quantity":1,"drop_rate":"1/43"},
+      {"name":"Mithril Spear","image_path":"assets/images/mithril_spear.png","quantity":1,"drop_rate":"1/64"},
+      {"name":"Hard Clue Scroll","image_path":"assets/images/Clue_scroll.png","quantity":1,"drop_rate":"1/128"},
+      {"name":"Mithril Kiteshield","image_path":"assets/images/mithril_kiteshield.png","quantity":1,"drop_rate":"1/128"},
+      {"name":"Adamant Full Helm","image_path":"assets/images/adamant_full_helm.png","quantity":1,"drop_rate":"1/128"},
+      {"name":"Rune Dagger","image_path":"assets/images/rune_dagger.png","quantity":1,"drop_rate":"1/128"},
+      {"name":"Fire Rune","image_path":"assets/images/firerune.png","quantity":37,"drop_rate":"1/128"}
+    ]
+  }
+]

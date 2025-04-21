@@ -1,0 +1,23 @@
+/* Dark wood & parchment tones */
+QMainWindow {
+    background-color: #2F1B0C;
+}
+QPushButton {
+    font-family: "Blackletter", "Old English Text MT", serif;
+    color: #EEDDCC;
+    background-color: #3D2B1F;
+    border: 2px solid #5A4533;
+    border-radius: 4px;
+    padding: 6px;
+}
+QPushButton:hover {
+    background-color: #4A3526;
+}
+QListWidget, QWidget {
+    background-color: #382510;
+    color: #D0C0A0;
+    font-family: "Blackletter", serif;
+}
+QListWidget::item {
+    padding: 4px;
+}
